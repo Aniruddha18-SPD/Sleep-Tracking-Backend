@@ -1,0 +1,7 @@
+Dear user,
+
+You have entered data for all seven days of this week. This week <insert>. The total amount of time you slept is <time> hours. On average you must sleep in between 42 and 56 hours a week. 
+
+Best,
+
+Sleep Tracking App Team 

@@ -1,0 +1,7 @@
+Dear user,
+
+You have entered data for all seven days of this week. This week you didn't get enough sleep. Try getting more sleep. This much sleep isn't enough for you. We are worried about your health. The total amount of time you slept is 10.1 hours. On average you must sleep in between 42 and 56 hours a week. 
+
+Best,
+
+Sleep Tracking App Team 
