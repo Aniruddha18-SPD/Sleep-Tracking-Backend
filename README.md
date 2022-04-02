@@ -1,4 +1,5 @@
-# CS0_Project
+# Sleep Tracking App 
+
 This is my first personal project in college. 
 
 Inorder to run the program, simply download the whole repository and run final.py. Keep on entering your sleeping data for
